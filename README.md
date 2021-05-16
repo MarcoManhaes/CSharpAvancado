@@ -3,13 +3,13 @@ Aplicação de técnicas e recursos avançados da linguagem C#
 
 Tópicos avançados da linguagem de programação C#:
 
-*** Serialização 
+**--> Serialização** 
  - Serializar no formato XML
  - Deserializar no formato XML
  - Serializar no formato JSON
  - Deserializar no formato JSON
 
-*** Topicos Avançados
+**--> Topicos Avançados**
  - Generics - Parte 1
  - Generics - Parte 2
  - Generics - Parte 3
@@ -17,7 +17,7 @@ Tópicos avançados da linguagem de programação C#:
  - Extension Methods
  - Nullable
 
-*** Linq e Lambda
+**--> Linq e Lambda**
  - Introdução ao LINQ
  - Sintaxe alternativa LINQ
  - LINQ com Objeto
@@ -25,7 +25,7 @@ Tópicos avançados da linguagem de programação C#:
  - LINQ - Join - Parte 2
  - LINQ - Group
 
-*** Delegates e Eventos
+**--> Delegates e Eventos**
  - Delegate - Parte 1
  - Delegate - Parte 2
  - Delegate - Parte 3
@@ -37,7 +37,7 @@ Tópicos avançados da linguagem de programação C#:
  - Delegate - Entendendo e Aplicando - Parte 2
  - Delegate - Entendendo e Aplicando - Parte 3
  
-*** Thread - Execução em Paralelo
+**--> Thread - Execução em Paralelo**
  - Introdução a Thread - Conceito
  - Thread - Primeiros passos
  - Thread - Multi Thread
@@ -47,13 +47,12 @@ Tópicos avançados da linguagem de programação C#:
  - Thread - Sleep e Join
  - Thread - AutoResetEvent e ManualResetEvent
 
-
-***Task
+**--> Task**
  - Task
  - Task - Executar métodos
  - Task - Execuções multiplas
 
-*** Atributos e Reflections
+**--> Atributos e Reflections**
  - Atributos
  - Validacao - Data Annotation - Parte 1
  - Validacao - Data Annotation - Parte 2
