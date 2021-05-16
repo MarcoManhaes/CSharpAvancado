@@ -58,6 +58,8 @@ Tópicos avançados da linguagem de programação C#:
  - Validacao - Data Annotation - Parte 2
  - Reflection - Parte 1
  - Reflection - Parte 2
+ 
+ **--> Nuget - Crie seu Pacote**
  - Nuget - Instalando ferramentas
  - Nuget - Criando o projeto
  - Nuget - Criando o pacote Nuget
